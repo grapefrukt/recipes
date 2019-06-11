@@ -2,7 +2,8 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<p>{{ page.author }}</p>
+<p>{{ page.portions }}</p>
 
 <ul>
   {% for item in page.list %}

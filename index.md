@@ -4,12 +4,13 @@ title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+Här är alla goda recept vi kan;
 
 <ul>
-  {% for recipe in site.recipes %}
+  {% assign recipes = site.recipes | sort: 'title' %}
+  {% for recipe in recipes %}
     <li>
-      <h2><a href="{{ recipe.url }}">{{ recipe.title }}</a></h2>
+      <h4><a href="{{ recipe.url }}">{{ recipe.title }}</a></h4>
     </li>
   {% endfor %}
 </ul>
