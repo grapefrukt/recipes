@@ -10,7 +10,7 @@ Här är alla goda recept vi kan;
   {% assign recipes = site.recipes | sort: 'title' %}
   {% for recipe in recipes %}
     <li>
-      <h4><a href="{{ recipe.url }}">{{ recipe.title }}</a></h4>
+      <h4><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h4>
     </li>
   {% endfor %}
 </ul>
