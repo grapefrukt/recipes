@@ -1,11 +1,17 @@
 ---
-layout: post
 author: martin
-ingredients:
-  - foo
-  - bar
-  - baz
-hello: world
+list:
+  - part :
+    ingredients:
+      - one
+      - two
+      - three
+  - part : are you talking about
+    ingredients:
+      - alpha
+      - beta
+      - gamma
+
 ---
 An apple is a sweet, edible fruit produced by an apple tree.
 

@@ -7,10 +7,9 @@ title: About
 This page tells you a little bit about me.
 
 <ul>
-  {% for post in site.posts %}
+  {% for recipe in site.recipes %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <h2><a href="{{ recipe.url }}">{{ recipe.title }}</a></h2>
     </li>
   {% endfor %}
 </ul>
