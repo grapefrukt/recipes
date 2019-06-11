@@ -1,17 +1,15 @@
 ---
 portions: 2-3 portioner
-list:
-  - part :
-    ingredients:
-      - Olivolja
-      - 1 stor gul lök
-      - 2 vitlöksklyftor
-      - 1 stor potatis
-      - 1 huvud broccoli, ca 300g
-      - 1 pkt fetaost
-      - 4 tsk valnötter
-      - 2 tärningar grönsaksbuljong
-      - 1 liter vatten
+ingredients :
+  - Olivolja
+  - 1 stor gul lök
+  - 2 vitlöksklyftor
+  - 1 stor potatis
+  - 1 huvud broccoli, ca 300g
+  - 1 pkt fetaost
+  - 4 tsk valnötter
+  - 2 tärningar grönsaksbuljong
+  - 1 liter vatten
 
 ---
 * Hacka potatis, lök och vitlök.
@@ -23,4 +21,4 @@ list:
 * Låt koka 3-4 minuter.
 * Lägg i hälften av fetaosten och valnötterna, spara resten till garnering.
 * Mixa soppan slät, späd med vatten till önskad konsistens.
-* Krydda. 
+* Krydda.

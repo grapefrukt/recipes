@@ -6,18 +6,9 @@ layout: default
 <p>{{ page.portions }}</p>
 
 <ul>
-  {% for item in page.list %}
-  <li>
-    {% if item.part != blank %}
-    <em>{{ item.part }}</em>
-    {% endif %}
-    <ul>
-    {% for item in item.ingredients %}
-      <li>{{ item }}</li>
-    {% endfor %}
-    </ul>
-  </li>
-  {% endfor %}
+{% for item in page.ingredients %}
+  <li>{{ item }}</li>
+{% endfor %}
 </ul>
 
 {{ content }}
