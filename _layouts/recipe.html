@@ -2,11 +2,19 @@
 layout: default
 ---
 <div class="twelve columns">
-  <a href="{{ '/' | relative_url }}" class="u-pull-right no-print">Tillbaka</a>
+  <a href="{{ '/' | relative_url }}" id="close" class="u-pull-right no-print">✖️</a>
   <h1>{{ page.title }}</h1>
-  <h5>{{ page.author }}</h5>
-  <h5>{{ page.portions }}</h5>
+  <h5>
+    &nbsp;
+    {% if page.portions != nil %}
+      <span><i class="fa fa-cutlery" aria-hidden="true"></i>{{ page.portions }}</span>
+    {% endif %}
+    {% if page.author != nil %}
+      <span><i class="fa fa-user" aria-hidden="true"></i>{{ page.author }}</span>
+    {% endif %}
+  </h5>
 </div>
+<hr class="twelve columns"/>
 <div class="row">
 <div class="four columns">
   {% if page.ingredients-label != nil %}

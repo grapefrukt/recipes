@@ -393,6 +393,14 @@ hr {
 
 /* Custom bits
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.container {
+  padding-top: 2em;
+}
+
+#close {
+  text-decoration: none;
+}
+
 #recipe-body ul li {
   list-style: none;
 }
@@ -402,8 +410,38 @@ hr {
   list-style: none;
 }
 
+h1 {
+  display: inline;
+  margin-inline-end: .4em;
+}
+
+/* used for recipe author, portion info */
+h5 {
+  display: inline-block;
+  margin-top: 0.8rem;
+}
+
+h5 span {
+  margin-inline-end: .4em;
+}
+
+/* used for headings in recipe list */
+h6 {
+  line-height: 0.5;
+}
+
+i {
+  font-size: 80%;
+  padding-inline-end: 0.4em;
+}
+
+hr {
+  margin-top: 0rem;
+  margin-bottom: 2.3rem;
+}
+
 @media print {
-   .no-print { 
+   .no-print {
       visibility: hidden;
    }
 }

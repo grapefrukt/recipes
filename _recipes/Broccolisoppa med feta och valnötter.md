@@ -1,5 +1,6 @@
 ---
-portions: 2-3 portioner
+portions : 2-3 portioner
+author : Abel & Cole
 ingredients :
   - Olivolja
   - 1 stor gul lök
