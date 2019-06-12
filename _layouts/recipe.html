@@ -1,14 +1,38 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p>{{ page.author }}</p>
-<p>{{ page.portions }}</p>
+<div class="twelve columns">
+  <a href="{{ '/' | relative_url }}" class="u-pull-right no-print">Tillbaka</a>
+  <h1>{{ page.title }}</h1>
+  <h5>{{ page.author }}</h5>
+  <h5>{{ page.portions }}</h5>
+</div>
+<div class="row">
+<div class="four columns">
+  {% if page.ingredients-label != nil %}
+    <h6>{{ page.ingredients-label }}</h6>
+  {% endif %}
 
-<ul>
-{% for item in page.ingredients %}
-  <li>{{ item }}</li>
-{% endfor %}
-</ul>
+  <ul class="ingredients">
+  {% for item in page.ingredients %}
+    <li>{{ item }}</li>
+  {% endfor %}
+  </ul>
 
-{{ content }}
+  {% if page.ingredients2 != nil %}
+    {% if page.ingredients2-label != nil %}
+      <h6>{{ page.ingredients2-label }}</h6>
+    {% endif %}
+    <ul class="ingredients">
+    {% for item in page.ingredients2 %}
+      <li>{{ item }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+</div>
+<div class="eight columns">
+  <div id="recipe-body">
+    {{ content }}
+  </div>
+</div>
+</div>

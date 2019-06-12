@@ -1,7 +1,7 @@
 ---
 author: Hannes & Jörgen
 ingredients :
-  - 1.5 dl mungbönor (torra)
+  - 1½ dl mungbönor (torra)
   - 1 lök
   - 1 burk kokosmjölk
   - 1.5 burk krossade tomater
