@@ -1,23 +1,25 @@
 ---
+title: Martins fantastiska morots- och ingefaÌˆrssoppa
 ingredients :
-  - 800 g morötter
-  - 1 gul lök
-  - 2 vitlöksklyftor
+  - 800 g morÃ¶tter
+  - 1 gul lÃ¶k
+  - 2 vitlÃ¶ksklyftor
   - 1 msk olja
-  - 2 msk finhackad ingefära
-  - 1 tärning grönsaksbuljong
+  - 2 msk finhackad ingefÃ¤ra
+  - 1 tÃ¤rning grÃ¶nsaksbuljong
   - 1 l vatten
-  - 1 burk kokosmjölk
-  - en gnutta röd curry
+  - 1 burk kokosmjÃ¶lk
+  - en gnutta rÃ¶d curry
   - 1 tsk salt
   - peppar
+tags: [ soppa ]
 ---
-* Hacka vitlök, lök och morötter i bitar. 
-* Fräs i olja i en kastrull, 3 min. 
-* Tillsätt röd curry, ingefära och buljongträning; fräs i ytterligare 1 min. 
-* Häll på kokosmjölk och så mycket vatten så att det kan koka ordentligt.
-* Låt sjuda i 10 min, tills morötterna är genomkokta.
+* Hacka vitlÃ¶k, lÃ¶k och morÃ¶tter i bitar.
+* FrÃ¤s i olja i en kastrull, 3 min.
+* TillsÃ¤tt rÃ¶d curry, ingefÃ¤ra och buljongtrÃ¤ning; frÃ¤s i ytterligare 1 min.
+* HÃ¤ll pÃ¥ kokosmjÃ¶lk och sÃ¥ mycket vatten sÃ¥ att det kan koka ordentligt.
+* LÃ¥t sjuda i 10 min, tills morÃ¶tterna Ã¤r genomkokta.
 
-* Mixa soppan slät. 
-* Salta och peppra. 
-* Späd med vatten till önskad konsistens. 
+* Mixa soppan slÃ¤t.
+* Salta och peppra.
+* SpÃ¤d med vatten till Ã¶nskad konsistens.

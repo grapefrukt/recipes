@@ -430,7 +430,8 @@ h5 span {
 
 /* used for headings in recipe list */
 h6 {
-  line-height: 0.5;
+  line-height: 0;
+  padding-top: 1em;
 }
 
 i {

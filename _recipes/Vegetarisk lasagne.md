@@ -1,36 +1,36 @@
 ---
-ingredients-label: Tomatsås
+ingredients-label: TomatsÃ¥s
 ingredients :
-  - 1 gul lök
-  - 2 vitlöksklyftor
+  - 1 gul lÃ¶k
+  - 2 vitlÃ¶ksklyftor
   - olivolja
-  - 2-3 morötter
+  - 2-3 morÃ¶tter
   - 500 g krossade tomater
-  - tomatpuré
+  - tomatpurÃ©
   - 1 tsk socker
-  - buljongtärning
-ingredients2-label : Crème fraiche-sås
+  - buljongtÃ¤rning
+ingredients2-label : CrÃ¨me fraiche-sÃ¥s
 ingredients2 :
   - 1 squash
   - spenat (frusen)
-  - 4 dl crème fraiche
+  - 4 dl crÃ¨me fraiche
   - 1 paket fetaost
   - salt, peppar
 
   - lasagneplattor 
   - riven ost
 ---
-### Tomatsås
-* Hacka lök och vitlök, fräs i olja.
-* Tillsätt grovt rivna morötter och fräs i några minuter.
-* Tillsätt krossade tomater, tomatpuré, socker och buljongtärning. 
+### TomatsÃ¥s
+* Hacka lÃ¶k och vitlÃ¶k, frÃ¤s i olja.
+* TillsÃ¤tt grovt rivna morÃ¶tter och frÃ¤s i nÃ¥gra minuter.
+* TillsÃ¤tt krossade tomater, tomatpurÃ©, socker och buljongtÃ¤rning. 
 
-### Crème fraiche-sås
-* Tärna squashen och lägg i en gryta tillsammans med frusen spenat och crème fraiche.
-* Låt koka i 5 min.
-* Tillsätt fetaost, salt och peppar.  
-* Tillsätt fetaost, salt
+### CrÃ¨me fraiche-sÃ¥s
+* TÃ¤rna squashen och lÃ¤gg i en gryta tillsammans med frusen spenat och crÃ¨me fraiche.
+* LÃ¥t koka i 5 min.
+* TillsÃ¤tt fetaost, salt och peppar.  
+* TillsÃ¤tt fetaost, salt
 
-* Montera lasagnen; börja med tomatsåsen, sluta med crème fraiche-såsen. 
+* Montera lasagnen; bÃ¶rja med tomatsÃ¥sen, sluta med crÃ¨me fraiche-sÃ¥sen. 
 * Toppa med riven ost.
-* Grädda ca 20 min i 225 grader. 
+* GrÃ¤dda ca 20 min i 225 grader. 

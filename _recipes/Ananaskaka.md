@@ -2,22 +2,23 @@
 author: Magnus Bladh
 ingredients-label: Pajdeg
 ingredients :
-  - 150 g smör
+  - 150 g smÃ¶r
   - 1 dl socker
-  - 3.5 dl vetemjöl
+  - 3.5 dl vetemjÃ¶l
   - 1 tsk bakpulver
 ingredients2-label : Fyllning
 ingredients2 :
-  - 1 burk krossad ananas 
-  - 2 dl crème fraiche
-  - 1 ägg 
-  - ½ dl socker
+  - 1 burk krossad ananas
+  - 2 dl crÃ¨me fraiche
+  - 1 Ã¤gg
+  - Â½ dl socker
   - 2 tsk vaniljsocker
+tags: [ efterrÃ¤tt ]
 ---
-* Smält smöret. 
-* Blanda ihop pajdegen och tryck ut i en pajform. 
-* Bre ut ananasen över degen. 
-* Blanda samman fyllningen och bre ut ovanpå ananasen.
-* Allt gräddas samtidigt, 30 min 175 grader.
+* SmÃ¤lt smÃ¶ret.
+* Blanda ihop pajdegen och tryck ut i en pajform.
+* Bred ut ananasen Ã¶ver degen.
+* Blanda samman fyllningen och bred ut ovanpÃ¥ ananasen.
+* Allt grÃ¤ddas samtidigt, 30 min i 175 grader.
 
-* Servera med grädde eller glass.
+* Servera med grÃ¤dde eller glass.

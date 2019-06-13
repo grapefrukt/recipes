@@ -23,6 +23,6 @@ tags: [ gryta ]
 * Stek en stund till.
 * Häll på resten, koka i 1 timme.
 * _Alternativt:_  Blötlägg mungbönor i 8h, koka i 30-45 min.
-*
+* 
 * Servera med ris.
 * Gott med chapati till.
