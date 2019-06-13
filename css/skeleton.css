@@ -460,7 +460,15 @@ hr {
    .no-print {
       visibility: hidden;
    }
+  .recipe { 
+    page-break-after: always;
+    page-break-inside: avoid;
+  }
+  .container {
+    padding-top: 0;
+  }
 }
+
 
 
 /* Media Queries

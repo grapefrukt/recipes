@@ -1,0 +1,47 @@
+<div class="recipe">
+  <div class="twelve columns">
+    <a href="{{ '/' | relative_url }}" id="close" class="u-pull-right no-print">
+      <i class="fa fa-bars"></i>
+    </a>
+    <h1>{{ page.title }}</h1>
+    <h5>
+      &nbsp;
+      {% if page.portions != nil %}
+        <span><i class="fa fa-cutlery" aria-hidden="true"></i>{{ page.portions }}</span>
+      {% endif %}
+      {% if page.author != nil %}
+        <span><i class="fa fa-user" aria-hidden="true"></i>{{ page.author }}</span>
+      {% endif %}
+    </h5>
+  </div>
+  <hr class="twelve columns"/>
+  <div class="row">
+    <div class="four columns">
+      {% if page.ingredients-label != nil %}
+        <h6>{{ page.ingredients-label }}</h6>
+      {% endif %}
+
+      <ul class="ingredients">
+      {% for item in page.ingredients %}
+        <li>{{ item }}</li>
+      {% endfor %}
+      </ul>
+
+      {% if page.ingredients2 != nil %}
+        {% if page.ingredients2-label != nil %}
+          <h6>{{ page.ingredients2-label }}</h6>
+        {% endif %}
+        <ul class="ingredients">
+        {% for item in page.ingredients2 %}
+          <li>{{ item }}</li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    <div class="eight columns">
+      <div id="recipe-body">
+        {{ page.content }}
+      </div>
+    </div>
+  </div>
+</div>
