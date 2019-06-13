@@ -419,6 +419,7 @@ h1 {
 h5 {
   display: inline-block;
   margin-top: 0.8rem;
+  color: #444;
 }
 
 h5 span {
@@ -438,6 +439,21 @@ i {
 hr {
   margin-top: 0rem;
   margin-bottom: 2.3rem;
+}
+
+.recipes a {
+  height: 4em;
+  color: white;
+  background-color: #555;
+  margin-bottom: 1em;
+  vertical-align: middle;
+  border-radius: 1.9px;
+  padding: 0.4em 1em 0 1em;
+  text-decoration: none;
+}
+
+.recipes a:hover {
+    background-color: #444;
 }
 
 @media print {

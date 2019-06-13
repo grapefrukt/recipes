@@ -4,7 +4,7 @@ ingredients :
   - 1½ dl mungbönor (torra)
   - 1 lök
   - 1 burk kokosmjölk
-  - 1.5 burk krossade tomater
+  - 1½ burk krossade tomater
   - 1 burk hela champinjoner
   - 1 tärning grönsaksbuljong
   - 2 msk curry
