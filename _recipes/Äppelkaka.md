@@ -13,6 +13,7 @@ ingredients2 :
   - 2 stora äpplen
   - 1.5 msk socker
   - ½ tsk kanel
+tags: [ efterrätt ]
 ---
 * Rör samman smör och socker.
 * Tillsätt äggen ett i taget.

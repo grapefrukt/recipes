@@ -16,12 +16,13 @@ ingredients :
   - ½ tsk koriander
   - ev färsk selleri
   - lime till servering
+tags: [ gryta ]
 ---
 * Stek löken.
 * Häll på ingefära och kryddor.
 * Stek en stund till.
 * Häll på resten, koka i 1 timme.
 * _Alternativt:_  Blötlägg mungbönor i 8h, koka i 30-45 min.
-* 
+*
 * Servera med ris.
 * Gott med chapati till.

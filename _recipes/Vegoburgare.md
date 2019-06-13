@@ -11,6 +11,7 @@ ingredients :
   - 1 knippe persilja, hackad
   - 1 tsk soja
   - salt, peppar
+tags: [ gryta ]
 ---
 * Blanda allt i en bunke och forma till 6 burgare.
 * Bryn ytan på hög värme i en stekpanna med mycket olja, 2-3 min per sida.
