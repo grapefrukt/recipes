@@ -1,13 +1,13 @@
 ---
 author: Magnus Bladh
-ingredients-label: Pajdeg
+
 ingredients :
+  - :Pajdeg
   - 150 g smör
   - 1 dl socker
   - 3.5 dl vetemjöl
   - 1 tsk bakpulver
-ingredients2-label : Fyllning
-ingredients2 :
+  - :Fyllning
   - 1 burk krossad ananas
   - 2 dl crème fraiche
   - 1 ägg

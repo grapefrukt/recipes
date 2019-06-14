@@ -1,15 +1,15 @@
 ---
 author: Ingrid
-ingredients-label: Smet
+ingredients-label: 
 ingredients :
+  - :Smet
   - 125 g smör
   - 1.5 dl socker
   - 2 ägg
   - 2.5 dl vetemjöl
   - ½ tsk bakpulver
   - 2 msk mjölk
-ingredients2-label : Fyllning
-ingredients2 :
+  - :Fyllning
   - 2 stora äpplen
   - 1.5 msk socker
   - ½ tsk kanel

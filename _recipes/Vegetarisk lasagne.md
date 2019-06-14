@@ -1,6 +1,8 @@
 ---
-ingredients-label: Tomatsås
 ingredients :
+  - lasagneplattor 
+  - riven ost
+  - :Tomatsås
   - 1 gul lök
   - 2 vitlöksklyftor
   - olivolja
@@ -9,16 +11,13 @@ ingredients :
   - tomatpuré
   - 1 tsk socker
   - buljongtärning
-ingredients2-label : Crème fraiche-sås
-ingredients2 :
+  - :Crème fraiche-sås
   - 1 squash
   - spenat (frusen)
   - 4 dl crème fraiche
   - 1 paket fetaost
   - salt, peppar
 
-  - lasagneplattor 
-  - riven ost
 ---
 ### Tomatsås
 * Hacka lök och vitlök, fräs i olja.
