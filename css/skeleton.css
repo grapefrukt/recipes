@@ -412,6 +412,19 @@ hr {
   list-style: none;
 }
 
+.ingredients li:last-child {
+  border-bottom: 0;
+}
+
+.ingredients li.heading {
+    border-bottom: none;
+    list-style: none;
+}
+
+.ingredients:not(:first-child) {
+  padding-top: 1em;
+}
+
 h1 {
   display: inline;
   margin-inline-end: .4em;
@@ -431,7 +444,7 @@ h5 span {
 /* used for headings in recipe list */
 h6 {
   line-height: 0;
-  padding-top: 1em;
+  padding-top: 0;
 }
 
 i {

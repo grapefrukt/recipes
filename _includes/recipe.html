@@ -23,9 +23,16 @@
         {% capture is-heading %}{{ item | slice: 0 }}{% endcapture  %}
 
         {% if is-heading == ":" %}
-          <li><h6>{{ item | slice: 1,999 }}</h6></li>
+          
+          {% if forloop.first != true %}
+          </ul>
+          <ul class="ingredients">
+          {% endif %}
+          
+          <li class="heading"><h6>{{ item | slice: 1,999 | capitalize }}</h6></li>
+          
         {% else %}
-          <li>{{ item }}</li>
+          <li>{{ item | capitalize }}</li>
         {% endif %}
         
       {% endfor %}
