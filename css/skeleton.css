@@ -466,10 +466,32 @@ hr {
   border-radius: 1.9px;
   padding: 0.4em 1em 0 1em;
   text-decoration: none;
+  border-left: 10px rgba(0, 0, 0, 0.2) solid;
+  transition: 0.2s;
 }
 
 .recipes a:hover {
-    background-color: #444;
+    border-left: 20px rgba(0, 0, 0, 0.2) solid;
+}
+
+.recipes a.col-one {
+  background-color: #00a0b0;
+}
+
+.recipes a.col-two {
+  background-color: #6a4a3c;
+}
+
+.recipes a.col-three {
+  background-color: #cc333f;
+}
+
+.recipes a.col-four {
+  background-color: #eb6841;
+}
+
+.recipes a.col-five {
+  background-color: #edc951;
 }
 
 @media print {

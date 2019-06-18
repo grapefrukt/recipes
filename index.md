@@ -3,31 +3,13 @@ layout: default
 title: Recept
 ---
 # Recept
-
-Här är alla goda recept vi kan;
-
-<!--<div class="recipes">
-  {% assign recipes = site.recipes | sort: 'title' %}
-
-    {% for recipe in recipes %}
-
-    {% assign remainder = forloop.index | modulo: 4 %}
-    {% if forloop.first == true %}
-      <div class="row first">
-    {% elsif remainder == 0 %}
-      </div>
-      <div class="row mid">
-    {% endif %}
-    <a class="four columns" href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a>
-    {% endfor %}
-  </div>
-</div>-->
-
+<hr />
 <div class="recipes">
   {% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq %}
 
   {% for tag in tags %}
     {% assign i = 0 %}
+    {% capture color %}{% cycle 'col-one', 'col-two', 'col-three', 'col-four', 'col-five' %}{% endcapture %}
     <h3>{{ tag | capitalize }}</h3>
 
     {% for recipe in site.recipes %}
@@ -41,7 +23,7 @@ Här är alla goda recept vi kan;
         <div class="row mid">
       {% endif %}
 
-      <a class="four columns" href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a>
+      <a class="four columns {{ color }}" href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a>
 
       {% assign i = i | plus:1 %}
       {% endif %}
