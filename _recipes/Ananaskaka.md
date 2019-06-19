@@ -13,7 +13,7 @@ ingredients :
   - 1 ägg
   - ½ dl socker
   - 2 tsk vaniljsocker
-tags: [ efterrätt ]
+tags: [ efterrätter ]
 ---
 * Smält smöret.
 * Blanda ihop pajdegen och tryck ut i en pajform.

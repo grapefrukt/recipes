@@ -15,12 +15,12 @@ title: Recept
     {% for recipe in site.recipes %}
       {% if recipe.tags contains tag %}
 
-      {% assign remainder = i | modulo: 4 %}
+      {% assign remainder = i | modulo: 3 %}
       {% if i == 0 %}
-        <div class="row first">
+        <div class="row">
       {% elsif remainder == 0 %}
         </div>
-        <div class="row mid">
+        <div class="row">
       {% endif %}
 
       <a class="four columns {{ color }}" href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a>

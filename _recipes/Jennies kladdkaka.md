@@ -7,6 +7,6 @@ ingredients :
   - 1 krm salt
   - 1.5 dl vetemjöl
   - 100 g smält smör
-tags: [ efterrätt ]
+tags: [ efterrätter ]
 ---
 * Grädda 15-20 min i 200 grader.
