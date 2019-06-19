@@ -13,7 +13,7 @@ ingredients :
   - 3 dl mjölk
   - 1 krm salt
   - peppar
-tags: [ paj ]
+tags: [ pajer ]
 ---
 * Dela broccolin och låt koka någon minut i saltat vatten.
 * Häll av i durkslag och skölj under kallt vatten. Ställ åt sidan sålänge.

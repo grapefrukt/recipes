@@ -12,7 +12,7 @@ ingredients :
   - en gnutta röd curry
   - 1 tsk salt
   - peppar
-tags: [ soppa ]
+tags: [ soppor ]
 ---
 * Hacka vitlök, lök och morötter i bitar.
 * Fräs i olja i en kastrull, 3 min.

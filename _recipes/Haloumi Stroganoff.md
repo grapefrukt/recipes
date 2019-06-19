@@ -18,7 +18,7 @@ ingredients :
 - :Till servering
 - 4 portioner ris
 - blandad sallad
-tags: [ gryta ]
+tags: [ grytor ]
 ---
 * Koka ris och linser enligt anvisning på respektive förpackning.
 *  

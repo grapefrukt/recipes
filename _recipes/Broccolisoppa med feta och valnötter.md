@@ -11,7 +11,7 @@ ingredients :
   - 4 tsk valnötter
   - 2 tärningar grönsaksbuljong
   - 1 liter vatten
-tags: [ soppa ]
+tags: [ soppor ]
 ---
 * Hacka potatis, lök och vitlök.
 * Stek lök och vitlök i olivolja med lite salt och peppar.

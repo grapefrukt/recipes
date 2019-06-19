@@ -17,7 +17,7 @@ ingredients :
  - Salt
  - Korianderpulver
 
-tags: [ gryta ]
+tags: [ grytor ]
 ---
 * Kärna ur och hacka chilin. Skala och grovhacka löken.
 * Skala och krossa vitlöksklyftorna (pressa inte). Skala och riv ingefäran.

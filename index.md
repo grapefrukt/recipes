@@ -5,7 +5,7 @@ title: Recept
 # Recept
 <hr />
 <div class="recipes">
-  {% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq %}
+  {% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
 
   {% for tag in tags %}
     {% assign i = 0 %}

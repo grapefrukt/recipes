@@ -5,7 +5,7 @@ ingredients :
   - 3 dl vetemjöl (alt. hälften/hälften grahamsmjöl)
   - 125 g smör eller margarin
   - 2-3 msk kallt vatten
-tags: [ paj ]
+tags: [ pajer ]
 ---
 * Mät upp mjölet i en skål.
 * Lägg i kylskåpskallt matfett, skuret i små bitar.

@@ -18,7 +18,7 @@ ingredients :
  - Salt
  - Lime
 
-tags: [ gryta ]
+tags: [ grytor ]
 ---
 * Tärna lök och morot, finhacka vitlök. Fräs i oljan.
 * Rör ner alla kryddor. Häll i linser och rör om ordentligt.

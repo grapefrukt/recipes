@@ -9,7 +9,7 @@ ingredients :
   - 2 msk äppelcidervinäger
   - 2 msk hackad persilja
   - yoghurt till servering
-tags: [ soppa ]
+tags: [ soppor ]
 ---
 * Riv rödbetorna grovt.
 * Hacka lök och fräs i olja.
