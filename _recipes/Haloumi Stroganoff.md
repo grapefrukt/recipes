@@ -10,7 +10,7 @@ ingredients :
 - 2 msk tomatpuré
 - 2½ dl matlagningsgrädde
 - 2 dl passerade tomater
-- 1 grönsaksbuljong
+- 1 tärning grönsaksbuljong
 - 1 msk balsamvinäger
 - 1 tsk torkad timjan
 - ev 1 tsk socker
