@@ -5,7 +5,7 @@ ingredients :
   - 1 tsk vaniljsocker
   - 4 msk kakao
   - 1 krm salt
-  - 1.5 dl vetemjöl
+  - 1½ dl vetemjöl
   - 100 g smält smör
 tags: [ efterrätter ]
 ---
