@@ -9,12 +9,12 @@ ingredients :
  - 75 g smält smör
  - 1 ägg
  - ½ msk salt
- - Vatten
+ - 2½ dl vatten
  - Rapsolja
 
 tags: [ bröd ]
 ---
-* Lös jästen i 5 dl vatten (40 grader), blanda i socker.
+* Lös jästen i vattnet (40 grader), blanda i socker.
 * Låt stå ca 10 min, tills det skummar!
 * Blanda i allt tort, sen ägg och smör.
 * Kör i matberedare ca 10 min. Jäs ca 25 min.
