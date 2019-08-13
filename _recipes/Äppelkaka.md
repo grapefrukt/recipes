@@ -1,6 +1,5 @@
 ---
 author: Ingrid
-ingredients-label: 
 ingredients :
   - :Smet
   - 125 g smör

@@ -13,7 +13,7 @@ ingredients :
  - 4 dl röda linser
  - 400 g krossade tomater
  - 400 ml kokosmjölk
- - 1. tärning grönsaksbuljong
+ - 1 tärning grönsaksbuljong
  - 2 dl vatten
  - Salt
  - Lime
