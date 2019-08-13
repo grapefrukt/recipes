@@ -1,5 +1,5 @@
 ---
-portions : 5-8 bröd
+portions : 6 bröd
 author : Hannes
 title: Naan - jäst indiskt pannbröd
 ingredients :
@@ -18,4 +18,4 @@ tags: [ bröd ]
 * Låt stå ca 10 min, tills det skummar!
 * Blanda i allt tort, sen ägg och smör.
 * Kör i matberedare ca 10 min. Jäs ca 25 min.
-* Knåda lite, gör 10-12 bollar. Kavla ut och stek på hög värme i lite olja, 3-5 min per sida.
+* Knåda lite, gör 6 bollar. Kavla ut och stek på hög värme i lite olja, 3-5 min per sida.
