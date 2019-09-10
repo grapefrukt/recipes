@@ -10,31 +10,31 @@
         <span><i class="fa fa-cutlery" aria-hidden="true"></i>{{ page.portions }}</span>
       {% endif %}
       {% if page.author != nil %}
-        <span><i class="fa fa-user" aria-hidden="true"></i>{{ page.author }}</span>
+        <span><i class="fa fa-user" aria-hidden="true"></i>{{ page.author | markdownify }}</span>
       {% endif %}
     </h5>
   </div>
   <hr class="twelve columns"/>
   <div class="row">
     <div class="four columns">
-      
+
       <ul class="ingredients">
       {% for item in page.ingredients %}
         {% capture is-heading %}{{ item | slice: 0 }}{% endcapture  %}
 
         {% if is-heading == ":" %}
-          
+
           {% if forloop.first != true %}
           </ul>
           <ul class="ingredients">
           {% endif %}
-          
+
           <li class="heading"><h6>{{ item | slice: 1,999 | capitalize }}</h6></li>
-          
+
         {% else %}
           <li>{{ item | capitalize }}</li>
         {% endif %}
-        
+
       {% endfor %}
       </ul>
     </div>

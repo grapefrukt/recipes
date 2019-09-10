@@ -441,6 +441,10 @@ h5 span {
   margin-inline-end: .4em;
 }
 
+h5 p {
+  display: inline;
+}
+
 /* used for headings in recipe list */
 h6 {
   line-height: 0;
