@@ -14,7 +14,7 @@ ingredients:
   - 100 g smör
   - ev 1 tsk stött kardemumma
 
-tags: [ efterrätter ]
+tags: [ efterrätter, pajer ]
 ---
 * Sätt ugnen på 225°
 * Skär rabarber i bitar, lägg i en form.
