@@ -25,5 +25,5 @@ tags: [ efterrätter, pajer ]
 * Pudra över florsocker före servering, strö på kokos och rivet limeskal
 
 * *Tips:*
-* Kakan kan verka rå när den kommer ur ugnen, men om den har fåt lite fär så är den färdig. Konsistensen blir rätt efter några timmar i kylskåpet.
+* Kakan kan verka rå när den kommer ur ugnen, men om den har fått lite färg så är den färdig. Konsistensen blir rätt efter några timmar i kylskåpet.
 * Kakan smakar bäst om du bakar den dagen innan.
