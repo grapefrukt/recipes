@@ -17,7 +17,7 @@ ingredients :
 tags: [ efterrätter ]
 ---
 * Vispa ägg och socker poröst. 
-* Rör ner olja och morätter. 
+* Rör ner olja och morötter. 
 * Blanda samman mjöl, bakpulver, kanel och vaniljsocker; rör ner i smeten. 
 * Häll ut smeten i en smord form och grädda i nedre delen av ugnen i 20 minuter, 175 grader. 
 * Låt kakan svalna innan den stjälps upp. 
