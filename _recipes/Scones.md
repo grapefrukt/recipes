@@ -4,7 +4,7 @@ title: Perfekta scones
 portions: 12 scones
 ingredients :
   - 8-9 dl vetemjöl
-  - ½ tsk salt
+  - 1 tsk salt
   - 1 tsk socker
   - 4 tsk bakpulver
   - 100 g kallt smör
