@@ -4,7 +4,7 @@ portions: 4 portioner
 ingredients :
  - 600 g färsk spenat
  - 1 gul lök
- - 2 vitlöksklyfta
+ - 2 vitlöksklyftor
  - 8 cocktailtomat
  - 2 msk ingefära, riven
  - 2 msk tomatpuré
