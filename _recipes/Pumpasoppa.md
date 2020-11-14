@@ -20,9 +20,7 @@ ingredients :
 
 tags: [ soppor ]
 ---
-* Skala och kärna ur pumpa och äpple. Skär i 2 cm stora bitar. Skala och skär lök, vitlök och ingefära i mindre bitar. Fräs detta och pumpabitarna i olja i en stor kastrull ca 10 minuter.
-* Starta timer
+* Skala och kärna ur pumpa och äpple. Skär i 2 cm stora bitar. Skala och skär lök, vitlök och ingefära i mindre bitar. Fräs allt i olja i en stor kastrull ca 10 minuter.
 * Tillsätt vatten och buljongtärningar. Låt småkoka under lock tills pumpan är mjuk, ca 20 minuter. Häll på grädde och sake/vin. Tillsätt timjan. Låt koka upp.
-* Starta timer
 * Ta av från värmen och mixa soppan slät i en matberedare eller med stavmixer. Smaka av med salt och vitpeppar.
 * Servera soppan med klippt krasse och Brödpinnar med parmesan.
