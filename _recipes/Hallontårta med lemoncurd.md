@@ -1,35 +1,35 @@
 ---
-author: Nyår 2013/2014
-title: Hallontårta med lemoncurd
+author: NyÃ¥r 2013/2014
+title: HallontÃ¥rta med lemoncurd
 ingredients :
   - 225 g havrekakor
-  - 50 g smör
+  - 50 g smÃ¶r
   - Skal av 2 lime
-  - 4 msk ströscker
+  - 4 msk strÃ¶scker
   - 450 g frusna hallon
   - 1 burk lemon curd (320 g)
   - 2 dl matyoghurt
   - 4 gelatinblad
-  - 3 äggvitor
-  - 2 dl vispgrädde
+  - 3 Ã¤ggvitor
+  - 2 dl vispgrÃ¤dde
   - Citronmeliss till garnering
 
-tags: [ efterrätter ]
+tags: [ efterrÃ¤tter ]
 ---
-* Mixa kakorna till smulor i en matberedare. Tillsätt smält smör.
+* Mixa kakorna till smulor i en matberedare. TillsÃ¤tt smÃ¤lt smÃ¶r.
 * Skrubba rent limen, finriv skalet och blanda med sockret.
-* Mixa hastight ihop hälften av limesockret med kaksmulorna. 
+* Mixa hastight ihop hÃ¤lften av limesockret med kaksmulorna. 
 * Spara resterande limesocker till dekor.
-* Lägg undan 25 fina hallon till dekor (frys dem på nytt).
+* LÃ¤gg undan 25 fina hallon till dekor (frys dem pÃ¥ nytt).
 * Mixa resterande hallon med lemoncurd och yoghurt.
-* Vispa äggvitor till hårt skum.
-* Vispa grädden.
-* Häll 3 msk av röran med hallon, lemoncurd och yoghurt i en liten kastrull. Smält gelatinet i denna hallonröra.
-* Blanda ner grädden i resterande hallonröra utan gelatin.
-* Tillsätt gelatin-blandningen under vispning. 
-* Vänd ner äggvitorna.
-* Klä en springform med plastfolie invändigt.
-* Häll i smeten. Toppa med havresmulet.
-* Ställ i frysen i minst 2h. 
-* Ta fram tårtan 20 min före servering: Vänd den upp och ner på ett fat.
+* Vispa Ã¤ggvitor till hÃ¥rt skum.
+* Vispa grÃ¤dden.
+* HÃ¤ll 3 msk av rÃ¶ran med hallon, lemoncurd och yoghurt i en liten kastrull. SmÃ¤lt gelatinet i denna hallonrÃ¶ra.
+* Blanda ner grÃ¤dden i resterande hallonrÃ¶ra utan gelatin.
+* TillsÃ¤tt gelatin-blandningen under vispning. 
+* VÃ¤nd ner Ã¤ggvitorna.
+* KlÃ¤ en springform med plastfolie invÃ¤ndigt.
+* HÃ¤ll i smeten. Toppa med havresmulet.
+* StÃ¤ll i frysen i minst 2h. 
+* Ta fram tÃ¥rtan 20 min fÃ¶re servering: VÃ¤nd den upp och ner pÃ¥ ett fat.
 * Garnera med hallon, limesocker och citronmeliss. 

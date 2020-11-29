@@ -2,17 +2,17 @@
 author: Bea, neurologen 25
 title: Pepparkakspannacotta
 ingredients :
-  - 5 dl grädde
-  - ½ tsk kanel
-  - ½ tsk malda nejlikor
-  - ½ tsk mald ingefära
+  - 5 dl grÃ¤dde
+  - Â½ tsk kanel
+  - Â½ tsk malda nejlikor
+  - Â½ tsk mald ingefÃ¤ra
   - 4 msk socker
-  - 1 dl gelésocker
+  - 1 dl gelÃ©socker
 
-tags: [ efterrätter ]
+tags: [ efterrÃ¤tter ]
 ---
-* Blanda och koka upp alla ingredienser förrutom gelésockret. 
-* Häll därefter i gelésockret och låt koka upp igen.
-* Häll upp i skålar.
-* Låt svalna minst 3h, gärna över natten. 
-* Färdigt!
+* Blanda och koka upp alla ingredienser fÃ¶rrutom gelÃ©sockret. 
+* HÃ¤ll dÃ¤refter i gelÃ©sockret och lÃ¥t koka upp igen.
+* HÃ¤ll upp i skÃ¥lar.
+* LÃ¥t svalna minst 3h, gÃ¤rna Ã¶ver natten. 
+* FÃ¤rdigt!

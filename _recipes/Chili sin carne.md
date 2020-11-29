@@ -1,18 +1,18 @@
 ---
 title: Chili sin carne
 ingredients :
-  - 2 gula lökar
-  - 2 klyftor vitlök
+  - 2 gula lÃ¶kar
+  - 2 klyftor vitlÃ¶k
   - 1 squash
-  - 1 röd paprika
+  - 1 rÃ¶d paprika
   - 2 msk olivolja
   - 1 msk spiskummin
   - 1 tsk cayennepeppar
   - 1 tsk malet kaffe
-  - 1 paket kidneybönor
-  - 1 paket vita bönor
+  - 1 paket kidneybÃ¶nor
+  - 1 paket vita bÃ¶nor
   - 2 paket krossade tomater
-  - 2 tsk rödvinsvinäger
+  - 2 tsk rÃ¶dvinsvinÃ¤ger
   - Chili
   - Timjan
   - Persilja
@@ -21,8 +21,8 @@ ingredients :
 
 tags: [ grytor ]
 ---
-* Hacka grönsakerna (lök, vitlök, squash och paprika). 
-* Stek grönsakerna i oljan tillsammans med spiskummin, cayennepeppar och kaffepulver tills det blir gyllenbrunt.
-* Tillsätt bönor och krossade tomater. 
-* Låt sjuda i 5 min. 
-* Smaka av med vinäger, chili, timjan, persilja, salt och peppar.
+* Hacka grÃ¶nsakerna (lÃ¶k, vitlÃ¶k, squash och paprika). 
+* Stek grÃ¶nsakerna i oljan tillsammans med spiskummin, cayennepeppar och kaffepulver tills det blir gyllenbrunt.
+* TillsÃ¤tt bÃ¶nor och krossade tomater. 
+* LÃ¥t sjuda i 5 min. 
+* Smaka av med vinÃ¤ger, chili, timjan, persilja, salt och peppar.

@@ -1,24 +1,24 @@
 ---
-author: Cecilia Österholm
+author: Cecilia Ã–sterholm
 title: Cissis lax
 ingredients :
-  - Laxfiléer (gärna frusna)
+  - LaxfilÃ©er (gÃ¤rna frusna)
   - Olja
-  - Morötter
+  - MorÃ¶tter
   - Tomat
   - Squash
   - Paprika
-  - Purjolök
+  - PurjolÃ¶k
   - Citron
   - Dill
-  - Matlagningsgrädde
+  - MatlagningsgrÃ¤dde
   - Salt, peppar
 
-tags: [ övrigt ]
+tags: [ Ã¶vrigt ]
 ---
-* Lägg den frusna laxen i en ugnsfast form.
-* Häll över lite olja, citron, salt och peppar.
-* Hacka grönsakerna och lägg över laxen som en bädd.
-* Häll över citron, dill och grädde. Salta och peppra.
-* In i ugnen på 175 grader, ca 30 min tills laxen är klar.
+* LÃ¤gg den frusna laxen i en ugnsfast form.
+* HÃ¤ll Ã¶ver lite olja, citron, salt och peppar.
+* Hacka grÃ¶nsakerna och lÃ¤gg Ã¶ver laxen som en bÃ¤dd.
+* HÃ¤ll Ã¶ver citron, dill och grÃ¤dde. Salta och peppra.
+* In i ugnen pÃ¥ 175 grader, ca 30 min tills laxen Ã¤r klar.
 * Servera med kokt potatis.

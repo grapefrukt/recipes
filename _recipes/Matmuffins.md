@@ -2,26 +2,26 @@
 title: Matmuffins
 portions : 18 st
 ingredients :
-  - 300 g rågmjöl alt. grahamsmjöl
+  - 300 g rÃ¥gmjÃ¶l alt. grahamsmjÃ¶l
   - 2 msk socker
   - 2 tsk bakpulver
   - 2 krm salt
   - timjan efter smak (ca 2 tsk)
-  - 2 ägg
-  - 300 g filmjölk
+  - 2 Ã¤gg
+  - 300 g filmjÃ¶lk
   - 30 g olivolja
-  - 1 liten rödlök
+  - 1 liten rÃ¶dlÃ¶k
   - frusen, hackad spenat 
   - 100-150g fetaost
   - 40 g soltorkade tomater
   
   
-tags: [ bröd, övrigt ]
+tags: [ brÃ¶d, Ã¶vrigt ]
 ---
 * Blanda de torra ingredienserna i en bunke. 
-* Blanda ägg, fil och olivolja i en egen bunke.
-* Häll mjölblandningen i äggblandningen. Blanda till en jämn smet. Rör ej för mycket!
-* Finhacka rödlöken. Tina spenaten. Finhacka fetaost och soltorkade tomater.
-* Vänd försiktigt ner grönsakerna och osten i smeten.
-* Häll i muffinsformar.
-* Grädda i 200 grader, ca 25 min.
+* Blanda Ã¤gg, fil och olivolja i en egen bunke.
+* HÃ¤ll mjÃ¶lblandningen i Ã¤ggblandningen. Blanda till en jÃ¤mn smet. RÃ¶r ej fÃ¶r mycket!
+* Finhacka rÃ¶dlÃ¶ken. Tina spenaten. Finhacka fetaost och soltorkade tomater.
+* VÃ¤nd fÃ¶rsiktigt ner grÃ¶nsakerna och osten i smeten.
+* HÃ¤ll i muffinsformar.
+* GrÃ¤dda i 200 grader, ca 25 min.

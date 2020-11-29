@@ -2,22 +2,22 @@
 Author: Anders & Emily (Midsommar i Karlshamn, 2014)
 title: Het sommarsalsa
 ingredients :
-  - 1 färsk ananas
-  - 1 färsk mango
-  - Vitkål
-  - 1 rödlök
-  - ½-1 chili
-  - ½ kruka koriander
-  - ½ kruka citronmeliss
-  - Skal och saft av ½ lime
+  - 1 fÃ¤rsk ananas
+  - 1 fÃ¤rsk mango
+  - VitkÃ¥l
+  - 1 rÃ¶dlÃ¶k
+  - Â½-1 chili
+  - Â½ kruka koriander
+  - Â½ kruka citronmeliss
+  - Skal och saft av Â½ lime
   - 1 krm salt
   - 1 msk olivolja
     
-tags: [ övrigt ]
+tags: [ Ã¶vrigt ]
 ---
-* Dela ananas och mango i bitar. Strimla lite vitkål.
-* Finhacka lök och chili. 
+* Dela ananas och mango i bitar. Strimla lite vitkÃ¥l.
+* Finhacka lÃ¶k och chili. 
 * Hacka koriander och citronmeliss.
 * Blanda samman med lifesaft + skal, salt och olja.
 
-* Gott till grillat kött!
+* Gott till grillat kÃ¶tt!

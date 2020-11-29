@@ -3,13 +3,13 @@ Author: Per & Jenny
 title: Lingonsill
 ingredients :
   - 1 paket Abbas 5-minuterssill
-  - 1 dl lätt crème fraiche
-  - ½ dl rårörd lingonsylt
-  - 2 msk finhackad rödlök
+  - 1 dl lÃ¤tt crÃ¨me fraiche
+  - Â½ dl rÃ¥rÃ¶rd lingonsylt
+  - 2 msk finhackad rÃ¶dlÃ¶k
     
-tags: [ övrigt ]
+tags: [ Ã¶vrigt ]
 ---
-* Gör en sås på crème fraiche, lingon och lök.
-* Häll den över sillen.
-* Låt stå i kylen 1 dygn.
+* GÃ¶r en sÃ¥s pÃ¥ crÃ¨me fraiche, lingon och lÃ¶k.
+* HÃ¤ll den Ã¶ver sillen.
+* LÃ¥t stÃ¥ i kylen 1 dygn.
 * Klart!

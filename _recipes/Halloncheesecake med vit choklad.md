@@ -1,5 +1,5 @@
 ---
-author: Nyår i Bengtsgård 2014/2015
+author: NyÃ¥r i BengtsgÃ¥rd 2014/2015
 title: Halloncheesecake med vit choklad
 ingredients :
   - :Botten
@@ -9,27 +9,27 @@ ingredients :
   - :Fyllning
   - 400 g philadelphia
   - 2 dl socker
-  - 2 ägg
+  - 2 Ã¤gg
   - Rivet skal av 1 citron
-  - 3 dl hallon (färska eller frysta)
+  - 3 dl hallon (fÃ¤rska eller frysta)
   - 100 g vit choklad
-  - 2 dl crème fraiche
+  - 2 dl crÃ¨me fraiche
 
   - :Garnering
-  - 3 dl färska hallon
+  - 3 dl fÃ¤rska hallon
 
-tags: [ efterrätter ]
+tags: [ efterrÃ¤tter ]
 ---
-* Mixa kexen i en matberedare och blanda samman med smält margarin.
-* Tryck ut i en smord springform, alt. låg pajform (diameter 25 cm). Det ska täcka botten och upp på kanterna.
-* Grädda i 175 grader, 5-7 min.
+* Mixa kexen i en matberedare och blanda samman med smÃ¤lt margarin.
+* Tryck ut i en smord springform, alt. lÃ¥g pajform (diameter 25 cm). Det ska tÃ¤cka botten och upp pÃ¥ kanterna.
+* GrÃ¤dda i 175 grader, 5-7 min.
 
-* Vispa ihop philadelphia, 3/4 av sockret, ägg och citronskal med elvisp.
-* Vänd ner hallonen i smeten.
-* Häll smeten i formen och grädda tills smeten har stannat, ca 30 min.
+* Vispa ihop philadelphia, 3/4 av sockret, Ã¤gg och citronskal med elvisp.
+* VÃ¤nd ner hallonen i smeten.
+* HÃ¤ll smeten i formen och grÃ¤dda tills smeten har stannat, ca 30 min.
 
-* Smält chokladen och vispa ihop med crème fraiche och resten av sockret.
-* Bred smeten försiktigt över kakans översta lager.
-* Grädda på nytt i 6 min.
-* Låt kakan stå i kylen några timmar eller över natten.
-* Garnera med färska hallon.
+* SmÃ¤lt chokladen och vispa ihop med crÃ¨me fraiche och resten av sockret.
+* Bred smeten fÃ¶rsiktigt Ã¶ver kakans Ã¶versta lager.
+* GrÃ¤dda pÃ¥ nytt i 6 min.
+* LÃ¥t kakan stÃ¥ i kylen nÃ¥gra timmar eller Ã¶ver natten.
+* Garnera med fÃ¤rska hallon.

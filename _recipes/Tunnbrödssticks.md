@@ -1,16 +1,16 @@
 ---
 author: Rebecka Backland
-title: Tunnbrödssticks
+title: TunnbrÃ¶dssticks
 ingredients :
-  - Polarbröd
+  - PolarbrÃ¶d
   - Olivolja
   - Flingsalt
   - Timjan
 
-tags: [ bröd ]
+tags: [ brÃ¶d ]
 ---
-* Skär mjukt tunnbröd i långa sticks.
-* Lägg dem på plåt med bakplåtspapper.
-* Pensla över olivolja.
-* Strö över flingsalt & timjan.
-* Grädda i 200 grader, 6-7 min (men håll koll redan efter 3-4 min. De blir fort mörka!)
+* SkÃ¤r mjukt tunnbrÃ¶d i lÃ¥nga sticks.
+* LÃ¤gg dem pÃ¥ plÃ¥t med bakplÃ¥tspapper.
+* Pensla Ã¶ver olivolja.
+* StrÃ¶ Ã¶ver flingsalt & timjan.
+* GrÃ¤dda i 200 grader, 6-7 min (men hÃ¥ll koll redan efter 3-4 min. De blir fort mÃ¶rka!)

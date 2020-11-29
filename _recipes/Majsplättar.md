@@ -1,26 +1,26 @@
 ---
-title: Majsplättar med feta- och kesoröra
+title: MajsplÃ¤ttar med feta- och kesorÃ¶ra
 portions : 4 portioner
 ingredients :
-  - 3 dl vetemjöl
+  - 3 dl vetemjÃ¶l
   - 1 tsk bakpulver
   - 1 tsk salt
-  - 4 ägg
-  - 1 1/4 dl mjölk
-  - ½ chilifrukt
-  - ½ kruka koriander
-  - 1 burk majs (340 g; funkar även med frusen majs)
+  - 4 Ã¤gg
+  - 1 1/4 dl mjÃ¶lk
+  - Â½ chilifrukt
+  - Â½ kruka koriander
+  - 1 burk majs (340 g; funkar Ã¤ven med frusen majs)
 
-  - :Röra
+  - :RÃ¶ra
   - 250 g keso
   - 100 g fetaost
 
-  - :Gott med färsk spenat till.
+  - :Gott med fÃ¤rsk spenat till.
   
-tags: [ övrigt ]
+tags: [ Ã¶vrigt ]
 ---
-* Blanda mjöl, bakpulver, salt, ägg och mjölk som en vanlig pannkakssmet (dvs vispa ut med lite mjölk i taget). 
-* Finhacka chili, hacka koriander och hälll ner i smeten tillsammans med majsen.
-* Klicka ner smeten i varm stekpanna. Grädda i smör, 3-4 min per sida.
-* Blanda keso och smulad fetaost i en skål. 
-* Servera plättarna med fetaoströran och rikligt med färsk spenat. 
+* Blanda mjÃ¶l, bakpulver, salt, Ã¤gg och mjÃ¶lk som en vanlig pannkakssmet (dvs vispa ut med lite mjÃ¶lk i taget). 
+* Finhacka chili, hacka koriander och hÃ¤lll ner i smeten tillsammans med majsen.
+* Klicka ner smeten i varm stekpanna. GrÃ¤dda i smÃ¶r, 3-4 min per sida.
+* Blanda keso och smulad fetaost i en skÃ¥l. 
+* Servera plÃ¤ttarna med fetaostrÃ¶ran och rikligt med fÃ¤rsk spenat. 

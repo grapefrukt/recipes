@@ -3,22 +3,22 @@ author: Hannes
 title: Frukostbullar
 portions : 12-15 st
 ingredients :
-  - 1/4 paket jäst
+  - 1/4 paket jÃ¤st
   - 6 dl vatten
   - 2 tsk salt
   - 2 dl vetekli
-  - 650 g vetemjöl
-  - russin/pumpakärnor/solrosfrön/nötter...
+  - 650 g vetemjÃ¶l
+  - russin/pumpakÃ¤rnor/solrosfrÃ¶n/nÃ¶tter...
   
   
-tags: [ bröd ]
+tags: [ brÃ¶d ]
 ---
-* Blanda jäst, vatten och salt
-* Rör i resten. (Russin kräver lite mer mjöl än vad det står i receptet.)
+* Blanda jÃ¤st, vatten och salt
+* RÃ¶r i resten. (Russin krÃ¤ver lite mer mjÃ¶l Ã¤n vad det stÃ¥r i receptet.)
 * Degen ska vara kladdig.
-* Sätt in degen i kylskåp över natten. Sätt lock över bunken för att undvika att kylskåpet luktar jäst.
+* SÃ¤tt in degen i kylskÃ¥p Ã¶ver natten. SÃ¤tt lock Ã¶ver bunken fÃ¶r att undvika att kylskÃ¥pet luktar jÃ¤st.
 
-  - :Nästa morgon
-* Sätt ugnen på 200 grader.
-* Fördela degen till 12-15 bollar på bakplåtspapper. (Använd stora skedar - behöver ej knåda/forma degen.)
-* Grädda ca 30 min (det gör inte så mycket om inte ugnen har blivit helt varm än).
+  - :NÃ¤sta morgon
+* SÃ¤tt ugnen pÃ¥ 200 grader.
+* FÃ¶rdela degen till 12-15 bollar pÃ¥ bakplÃ¥tspapper. (AnvÃ¤nd stora skedar - behÃ¶ver ej knÃ¥da/forma degen.)
+* GrÃ¤dda ca 30 min (det gÃ¶r inte sÃ¥ mycket om inte ugnen har blivit helt varm Ã¤n).
