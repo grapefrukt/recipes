@@ -25,7 +25,8 @@ ingredients :
 * Tillsätt krossade tomater, tomatpuré, socker och buljongtärning.
 
 ### Crème fraiche-sås
-* Tärna squashen och lägg i en gryta tillsammans med frusen spenat och crème fraiche.
+* Tina spenaten i mikron.
+* Tärna squashen och lägg i en gryta tillsammans med spenat och crème fraiche.
 * Låt koka i 5 min.
 * Tillsätt fetaost, salt och peppar.
 
