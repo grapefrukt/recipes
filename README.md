@@ -1,5 +1,5 @@
 # Recipes
-Jekyll recipe database.
+Jekyll recipe database
 
 ## Running with docker
 Having installed [docker](https://docker.com), just run this from root of repo:
