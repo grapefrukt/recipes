@@ -1,15 +1,15 @@
 ---
-title: Flädersaft
+title: FlÃ¤dersaft
 ingredients :
   - 50 blomklasar
-  - 2 citroner (sköljda)
+  - 2 citroner (skÃ¶ljda)
   - 2 l kokande vatten
   - 2 kg socker
   - 60 g citronsyra
   - 3 g natriumbensoat
   
-tags: [ övrigt ]
+tags: [ Ã¶vrigt ]
 ---
-* Lägg blommor och tunna skivor citron i en skål.
-* Tillsätt socker, citronsyra, vatten och bensoat, rör om. 
-* Låt stå övertäckt, kallt i 1 vecka, rör om varje dag. 
+* LÃ¤gg blommor och tunna skivor citron i en skÃ¥l.
+* TillsÃ¤tt socker, citronsyra, vatten och bensoat, rÃ¶r om. 
+* LÃ¥t stÃ¥ Ã¶vertÃ¤ckt, kallt i 1 vecka, rÃ¶r om varje dag. 

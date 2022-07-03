@@ -7,9 +7,9 @@ ingredients :
   - 2 l kokande vatten
   - 1,5 - 2 kg socker
 
-tags: [ övrigt ]
+tags: [ Ã¶vrigt ]
 ---
-* Lägg rabarber citroner och citronsyra i ett kärl. 
-* Koka upp vatten och häll det över, rör om. 
-* Ställ svalt.
-* Efter ett dygn, koka upp igen och rör i sockret. Sila. 
+* LÃ¤gg rabarber citroner och citronsyra i ett kÃ¤rl. 
+* Koka upp vatten och hÃ¤ll det Ã¶ver, rÃ¶r om. 
+* StÃ¤ll svalt.
+* Efter ett dygn, koka upp igen och rÃ¶r i sockret. Sila. 
