@@ -6,10 +6,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   const clearElement = document.querySelector(".find-clear");
 
   const updateSearch = function(){
-    // const result = document.querySelector('.result');
-    // result.textContent = `You like ${event.target.value}`;
-    console.log(inputElement.value);
-    const value = inputElement.value;
+    const value = inputElement.value.toLocaleLowerCase();
     
     elements.forEach(element => {
       if (value == "") {
