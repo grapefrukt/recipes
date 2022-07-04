@@ -498,6 +498,24 @@ hr {
   background-color: #5fb800;
 }
 
+a.recipe.search-miss {
+    opacity: 10%;
+    height: 1px;
+}
+
+.find-clear {
+    width: 37px;
+    padding: 0 0 0 9px;
+    border: none;
+    font-size: 160%;
+    vertical-align: top;
+}
+
+.find-label {
+    display: inline;
+    font-size: 137%;
+}
+
 @media print {
    .no-print {
       visibility: hidden;

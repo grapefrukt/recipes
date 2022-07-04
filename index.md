@@ -2,8 +2,15 @@
 layout: default
 title: Recept
 ---
-# Recept
-<hr />
+
+<div class="search row">
+  <form>
+    <label class="find-label" for="find"><i class="fa fa-search"></i></label>
+    <input type="text" id="find" name="find">
+    <button type="button" class="find-clear"><i class="fa fa-circle-xmark"></i></button>
+  </form>
+</div>
+
 <div class="recipes">
   {% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
 
@@ -23,7 +30,7 @@ title: Recept
         <div class="row">
       {% endif %}
 
-      <a class="four columns {{ color }}" href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a>
+      <a class="recipe four columns {{ color }}" href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a>
 
       {% assign i = i | plus:1 %}
       {% endif %}
