@@ -29,4 +29,25 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
   inputElement.addEventListener('input', (event) => {updateSearch()});
 
+  const headers = Array.from(document.getElementsByTagName("h3"));
+  const categories = Array.from(document.getElementsByClassName("category"));
+
+  headers.forEach(element => {
+    element.addEventListener('click', (event) => {
+      const tag = event.srcElement.dataset.tag;
+      filterCategories(tag);
+    });
+  });
+
+  const filterCategories = function(tag){
+    categories.forEach(category => {
+      console.log(category.dataset.tag);
+        if (category.dataset.tag == tag){
+          category.classList.remove("contracted");
+        } else {
+          category.classList.add("contracted");
+        }
+    });
+  }
+
 });

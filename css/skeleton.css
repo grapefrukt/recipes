@@ -472,6 +472,7 @@ hr {
   text-decoration: none;
   border-left: 10px rgba(0, 0, 0, 0.2) solid;
   transition: 0.2s;
+  overflow: hidden;
 }
 
 .recipes a:hover {
@@ -498,9 +499,19 @@ hr {
   background-color: #5fb800;
 }
 
-a.recipe.search-miss {
-    opacity: 10%;
-    height: 1px;
+a.recipe.search-miss, .contracted a.recipe {
+  opacity: 10%;
+  height: 0px;
+  margin-bottom: 2px;
+  padding: 0;
+}
+
+.category.contracted .fa-angle-up {
+    display: none;
+}
+
+.category:not(.contracted) .fa-angle-down {
+    display: none;
 }
 
 .find-clear {
@@ -515,6 +526,17 @@ a.recipe.search-miss {
     display: inline;
     font-size: 137%;
 }
+
+h3 {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  padding: 5px 8px 0 19px;
+}
+
+h3 i.fa-solid {
+    margin-top: 10px;
+}
+
 
 @media print {
    .no-print {
