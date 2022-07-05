@@ -34,14 +34,15 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
   headers.forEach(element => {
     element.addEventListener('click', (event) => {
-      const tag = event.srcElement.dataset.tag;
+      console.log(event.target);
+      const tag = event.target.dataset.tag;
       filterCategories(tag);
     });
   });
 
   const filterCategories = function(tag){
     categories.forEach(category => {
-      console.log(category.dataset.tag);
+      //console.log(category.dataset.tag);
         if (category.dataset.tag == tag){
           category.classList.remove("contracted");
         } else {
@@ -49,5 +50,4 @@ document.addEventListener("DOMContentLoaded", function(event) {
         }
     });
   }
-
 });

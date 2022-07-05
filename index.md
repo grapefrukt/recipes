@@ -18,7 +18,7 @@ title: Recept
     {% assign i = 0 %}
     {% capture color %}{% cycle 'col-one', 'col-two', 'col-three', 'col-four', 'col-five' %}{% endcapture %}
       
-    <div class="category" data-tag="{{ tag }}">
+    <div class="category contracted" data-tag="{{ tag }}">
       <h3 data-tag="{{ tag }}">
         {{ tag | capitalize }}
         <i class="fa-solid fa-angle-down u-pull-right "></i>
