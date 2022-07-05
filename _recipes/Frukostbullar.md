@@ -18,7 +18,7 @@ tags: [ bröd ]
 * Degen ska vara kladdig.
 * Sätt in degen i kylskåp över natten. Sätt lock över bunken för att undvika att kylskåpet luktar jäst.
 
-  - :Nästa morgon
+* __Nästa morgon__
 * Sätt ugnen på 200 grader.
 * Fördela degen till 12-15 bollar på bakplåtspapper. (Använd stora skedar - behöver ej knåda/forma degen.)
 * Grädda ca 30 min (det gör inte så mycket om inte ugnen har blivit helt varm än).
