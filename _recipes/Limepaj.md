@@ -19,7 +19,7 @@ tags: [ efterrätter, pajer ]
 * Vispa samman socker och ägg till en fluffig smet.
 * Tillsätt vaniljsocker, limesaft och skal. 
 * Tillsätt smör och mjöl.
-* Blanda till jämn deg och hälll i formen.
+* Blanda till jämn smet och hälll i formen.
 * Grädda mitt i ugnen, 125° (varmluftsugn) i 35-45 min tills kakan har fått en aning färg. (Blev bra på 35 min.)
 * Låt svalna och ställ sedan i kylen några timmar före servering.
 * Pudra över florsocker före servering, strö på kokos och rivet limeskal
