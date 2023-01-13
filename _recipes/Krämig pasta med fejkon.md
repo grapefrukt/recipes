@@ -1,7 +1,7 @@
 ---
+portions : 4
 title : Krämig pasta med fejkon och soltorkade tomater
 author: "[Jävligt Gott](https://javligtgott.se/recept/kramig-pasta-med-fejkon/)"
-Portions : 4
 ingredients :
   - 500 g spagetti
   - 250 g tofu  
@@ -16,7 +16,7 @@ ingredients :
   - 100 g Färsk spenat
   - Salt och svartpeppar
   - Rapsolja till stekning
-tags: [ övrigt ]
+tags: [ pasta ]
 ---
 * Börja med att skala och hacka din lök och vitlök fint. Tärna tofun i ca 7 mm stora bitar, och tärna eller strimla den soltorkade tomaten.
 * Hetta upp en stekpanna med rapsolja. Vänd ner tofun, sojasåsen, rökaromen, sirapen och rikligt med svartpeppar och stek tills all marinad stekts in i tofun och den blivit knaprig.

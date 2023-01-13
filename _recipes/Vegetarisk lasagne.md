@@ -17,7 +17,7 @@ ingredients :
   - 4 dl crème fraiche
   - 1 paket fetaost
   - salt, peppar
-
+tags: [ pasta ]
 ---
 ### Tomatsås
 * Hacka lök och vitlök, fräs i olja.
