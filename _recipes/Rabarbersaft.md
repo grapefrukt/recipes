@@ -9,7 +9,7 @@ ingredients :
 
 tags: [ övrigt ]
 ---
-* Lägg rabarber citroner och citronsyra i ett kärl. 
+* Lägg rabarber, citroner och citronsyra i ett kärl. 
 * Koka upp vatten och häll det över, rör om. 
 * Ställ svalt.
 * Efter ett dygn, koka upp igen och rör i sockret. Sila. 
