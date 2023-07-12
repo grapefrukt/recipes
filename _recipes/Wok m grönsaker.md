@@ -1,5 +1,5 @@
 ---
-title : Wok med grönsaker och cashewnötter
+title : Wok med tofu och cashewnötter
 Portions : 4
 ingredients :
   - 1 pkt tofu
