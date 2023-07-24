@@ -1,6 +1,5 @@
 ---
-title : Nudelwok med kål och halloumi
-author: "[ICA](https://www.ica.se/recept/nudelwok-med-kal-och-sidflask-718459/)"
+title : Nudelwok med cashewnötter
 Portions : 4
 ingredients :
   - 2 vitlöksklyftor
@@ -17,6 +16,7 @@ ingredients :
   - 1 förp färska böngroddar (à 180 g)
   - salt
   - peppar
+  - cashewnötter
 
 tags: [ wok ]
 ---
