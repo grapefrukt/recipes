@@ -24,10 +24,10 @@ ingredients :
 
 tags: [ grytor ]
 ---
-*  Koka riset enligt anvisning på förpackningen.
-* Hacka lök, vitlök. Skala och riv ingefära. Skär halloumin i bitar och halvera tomaterna.
+* Koka riset enligt anvisning på förpackningen.
+* Skär halloumin i bitar och stek hastigt i olja så att den precis får färg. Lägg åt sidan.
+* Hacka lök, vitlök. Skala och riv ingefära, halvera tomaterna.
 * Fräs löken i olja. Tillsätt kryddorna och ingefäran och låt steka ett par minuter. Tillsätt därefter tomatpurén och låt steka ytterligare någon minut.
 * Tillsätt grädde, grönsaksbuljong och spenat och låt koka ihop. Smaka av med salt och peppar.
-* Stek halloumin hastigt i olja i en het stekpanna så att den precis får färg.
-* Lägg i halloumiosten, tomaterna och spenaten i såsen tills allt är varmt och spenaten sloknat något.
-* Servera med ris, mango chutney och yoghurt.
+* Lägg i halloumiosten och tomaterna i såsen tills allt är varmt.
+* Servera med ris.
