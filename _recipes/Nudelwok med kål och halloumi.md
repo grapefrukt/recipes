@@ -6,7 +6,7 @@ ingredients :
   - 200 g vitkål
   - 1 rödlök
   - 125 g salladslök
-  - 200 g rimmat sidfläsk
+  - 200 g halloumi
   - 250 g äggnudlar
   - 1 tsk finriven ingefära
   - 1 tsk kinesiskt risvin (shaoxing-vin eller torr sherry)
