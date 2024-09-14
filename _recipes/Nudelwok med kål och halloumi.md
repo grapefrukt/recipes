@@ -10,7 +10,7 @@ ingredients :
   - 250 g äggnudlar
   - 1 tsk finriven ingefära
   - 1 tsk kinesiskt risvin (shaoxing-vin eller torr sherry)
-  - 2 msk kinesisk sås (black bean sauce, eller 3 msk hemgjord svart bönsås, se tips, för 6 portioner)
+  - 2 msk kinesisk black bean sauce
   - ½ tsk majsstärkelse
   - 50 g böngroddar
 
