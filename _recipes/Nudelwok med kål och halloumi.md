@@ -22,6 +22,6 @@ tags: [ wok ]
 * Börja med att steka halloumin i rikligt med olja. Lägg den åt sidan. 
 * Fräs kålen i hälften i en stekpanna ca 5 minuter, tills den får färg. Lägg den åt sidan. 
 * Börja koka nudlarna enligt anvisning på förpackningen. 
-* Stek rödlök, salladslök och sidfläsk i resterande olja i en het stekpanna ca 5 minuter, tills det får färg. 
+* Stek rödlök och salladslök i resterande olja i en het stekpanna ca 5 minuter, tills det får färg. 
 * Häll över såsen, låt koka upp och tillsätt den stekta kålen och nudlarna. 
 * Lägg upp woken på ett fat. Garnera med böngroddar.
