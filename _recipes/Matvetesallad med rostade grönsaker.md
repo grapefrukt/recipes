@@ -10,6 +10,7 @@ ingredients :
   - 150 g fetaost
   - ruccola
   - olivolja
+  - citronsaft
   - solroskärnor
   
 tags: [ övrigt ]
@@ -22,6 +23,6 @@ tags: [ övrigt ]
 
 * Koka matvetet (tillsätt salt mot slutet)
 * Rosta solroskärnorna.
-* Blanda det färdiga matvetet med citron och olivolja.
+* Blanda det färdiga matvetet med citronsaft och olivolja.
 * Blanda samman grönsakerna, matvetet, smulad fetaost, rostade solroskärnor och smaka av med salt och peppar.
 * Toppa med ruccola. 
