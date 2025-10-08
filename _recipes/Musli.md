@@ -16,8 +16,9 @@ ingredients :
 
 tags: [ övrigt ]
 ---
+* Sätt ugnen på 125 grader varmluft.
 * Blanda de torra ingredienserna i en stor bunke, blanda väl.
 * Blanda samman oljeblandningen i ett glas, häll därefter ner i bunken och rör om ordentligt.
-* Häll ut alltsammans på en plåt och rosta i ugnen, 125 grader varmluft, i 45 min. Rör om varje kvart.
+* Häll ut alltsammans på en plåt och rosta i ugnen i 45 min. Rör om varje kvart.
 * Mät upp torkad frukt och hacka aprikoser/fikon i mindre bitar.
 * När müslin är klar och har hunnit svalna är det dags att röra ner den torkade frukten.
