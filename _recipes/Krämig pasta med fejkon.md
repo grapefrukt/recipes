@@ -4,7 +4,7 @@ title : Krämig pasta med fejkon och soltorkade tomater
 author: "[Jävligt Gott](https://javligtgott.se/recept/kramig-pasta-med-fejkon/)"
 ingredients :
   - 500 g spagetti
-  - 250 g tofu  
+  - 400 g tofu  
   - 1 msk japansk sojasås 
   - 1 tsk rökarom   
   - 1 tsk sirap 
