@@ -1,12 +1,12 @@
 ---
-author: "[Jim Lahey](https://leitesculinaria.com)"
+author: Matgeek
 portions : 20 st
 ingredients :
-500 ml vatten (rumstempererat)
-25 g jäst
-2 tsk salt
-1 tsk olivolja
-660 g vetemjöl
+  - 500 ml vatten (rumstempererat)
+  - 25 g jäst
+  - 2 tsk salt
+  - 1 tsk olivolja
+  - 660 g vetemjöl
 
 tags: [ bröd ]
 ---
