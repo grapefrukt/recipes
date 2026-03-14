@@ -9,4 +9,4 @@ ingredients :
   - 100 g smält smör
 tags: [ efterrätter ]
 ---
-* Grädda 15-20 min i 200 grader.
+* Grädda 12-15 min i 200 grader.
