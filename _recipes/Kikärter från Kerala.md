@@ -7,7 +7,7 @@ ingredients :
  - 1 medelstor gul lök
  - 3 vitlöksklyftor
  - 3 cm riven ingefära
- - 1 burk kikärter (400g)
+ - 2 burkar kikärtor (2x400g)
  - 2 msk rapsolja
  - 1-2 msk curry (eller mer!)
  - 1 burk kokosmjölk (400g)
@@ -15,7 +15,6 @@ ingredients :
  - 100 g färsk spenat
  - Saft av ½ pressad lime
  - Salt
- - Korianderpulver
 
 tags: [ grytor ]
 ---
@@ -25,4 +24,4 @@ tags: [ grytor ]
 * Fräs chili, lök, vitlök och ingefära i olja. Dofta över curry.
 * Blanda sedan ner kikärterna och häll i kokosmjölken. Låt det hela koka upp och sedan puttra ett par min.
 * Riv sönder de färska spenatbladen grovt och blanda ner dem och tomaterna. Låt koka några få min till.
-* Smaka av med limesaft och lite salt. Strö över koriander. Servera med ris.
+* Smaka av med limesaft och lite salt. Servera med ris.
